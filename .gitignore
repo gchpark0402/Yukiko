@@ -70,3 +70,8 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+/[Aa]ssets/Temp/JapaneseHouse/
+/[Aa]ssets/Temp/Scenes/Japanese Dungeons Scenes/
+/[Aa]ssets/Temp/Prefabs/Japanese Dungeons/
+/[Aa]ssets/Temp/Sound/Speak/
